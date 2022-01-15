@@ -214,7 +214,7 @@ Answer the following question in your copy of the `README.md` file.
 
 Which of the following are integers:
 
-   * "hello" | ADD ANSWER HERE
+   * "hello" | ADD ANSWER HERE <--- You should add an answer to each line
    * 17.5 | ADD ANSWER HERE
    * 60009
    * 22333
@@ -262,7 +262,7 @@ Answer the following question in your copy of the `README.md` file.
 
 * How many positive values can be represented in a 6-bit signed integer?
 
-ADD ANSWER HERE
+ADD ANSWER HERE <-- You should add your answer here
 
 * How many negative values can be represented in a 12-bit signed integer?
 
@@ -380,7 +380,7 @@ Answer the following question in your copy of the `README.md` file.
 For each of the following, specify if the resulting calculation will result in
 an Overflow, Underflow, or No Error.
 
-* Using 4-bit signed integers: 4 + 4 - ANSWER HERE
+* Using 4-bit signed integers: 4 + 4 - ANSWER HERE <-- You should add your answer here.
 * Using 4-bit signed integers: 0 - 4 - ANSWER HERE
 * Using 4-bit signed integers: -7 - 2
 * Using 6-bit signed integers: 30 + 2
